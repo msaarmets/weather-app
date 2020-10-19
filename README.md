@@ -1,5 +1,7 @@
 # Weather app
 
+To download the project first run `git clone git@github.com:msaarmets/weather-app.git` and then `git submodule update --init --recursive` to register and pull the submodules.
+
 ### Server
 
 1. To initialize the server `cd` to `server` and run `yarn initialize`
